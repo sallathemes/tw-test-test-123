@@ -4,11 +4,11 @@
         "en": "tw-test-test-123"
     },
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     },
     "author_email": "sallathemes@gmail.com",
-    "support_url": "",
+    "support_url": "https://portal.salla.partners/themes/bundles/182720052?type=bundle",
     "repository": "https://github.com/sallathemes/tw-test-test-123",
     "components": []
 }
